@@ -1,1 +1,23 @@
-2 > 5 > 7 > 10 > 
+Time = 0	 XF = 518.30	 YF = 824.82	 XB = 503.09	 YB = 347.98	 Distance = 477.09
+Time = 1	 XF = 517.66	 YF = 804.83	 XB = 599.45	 YB = 254.23	 Distance = 556.65
+Time = 2	 XF = 520.60	 YF = 785.05	 XB = 526.07	 YB = 211.87	 Distance = 573.21
+Time = 3	 XF = 520.79	 YF = 765.05	 XB = 560.71	 YB = 214.33	 Distance = 552.16
+Time = 4	 XF = 522.24	 YF = 745.10	 XB = 591.17	 YB = 195.79	 Distance = 553.62
+Time = 5	 XF = 524.73	 YF = 725.26	 XB = 611.12	 YB = 273.39	 Distance = 460.06
+Time = 6	 XF = 528.48	 YF = 705.62	 XB = 680.15	 YB = 263.22	 Distance = 467.67
+Time = 7	 XF = 534.97	 YF = 686.70	 XB = 718.15	 YB = 278.38	 Distance = 447.53
+Time = 8	 XF = 543.15	 YF = 668.45	 XB = 807.50	 YB = 257.91	 Distance = 488.28
+Time = 9	 XF = 553.98	 YF = 651.63	 XB = 804.95	 YB = 167.20	 Distance = 545.58
+Time = 10	 XF = 563.18	 YF = 633.88	 XB = 759.71	 YB = 252.10	 Distance = 429.39
+Time = 11	 XF = 572.34	 YF = 616.09	 XB = 809.13	 YB = 313.38	 Distance = 384.33
+Time = 12	 XF = 584.66	 YF = 600.34	 XB = 827.83	 YB = 310.17	 Distance = 378.59
+Time = 13	 XF = 597.50	 YF = 585.01	 XB = 923.20	 YB = 225.44	 Distance = 485.15
+Time = 14	 XF = 610.93	 YF = 570.19	 XB = 880.46	 YB = 203.03	 Distance = 455.47
+Time = 15	 XF = 622.77	 YF = 554.07	 XB = 870.21	 YB = 281.80	 Distance = 367.91
+Time = 16	 XF = 636.22	 YF = 539.27	 XB = 819.72	 YB = 366.69	 Distance = 251.90
+Time = 17	 XF = 650.79	 YF = 525.56	 XB = 724.52	 YB = 405.59	 Distance = 140.82
+Time = 18	 XF = 661.26	 YF = 508.52	 XB = 737.71	 YB = 433.09	 Distance = 107.40
+Time = 19	 XF = 675.50	 YF = 494.48	 XB = 813.97	 YB = 470.81	 Distance = 140.48
+Time = 20	 XF = 695.21	 YF = 491.11	 XB = 799.93	 YB = 399.44	 Distance = 139.17
+Time = 21	 XF = 710.26	 YF = 477.94	 XB = 704.15	 YB = 493.47	 Distance = 16.69
+Bomber caught at 21 seconds

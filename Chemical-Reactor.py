@@ -14,9 +14,9 @@ def chemical_reactor(A, B, C, k1, k2, end_time, dt):
         substance_C.append(C)
         time_points.append(time)
         time += dt
-
-        A += (k2 * C - k1 * A * B) * dt
-        B += (k2 * C - k1 * A * B) * dt
+        val = k2 * C - k1 * A * B
+        A += val * dt
+        B += val * dt
         C += (2 * k1 * A * B - 2 * k2 * C) * dt
 
         plt.clf()
